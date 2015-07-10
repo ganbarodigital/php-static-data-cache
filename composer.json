@@ -1,5 +1,6 @@
 {
     "name": "ganbarodigital/php-static-data-cache",
+    "description": "Convenient static data cache for speeding up expensive operations",
     "type": "library",
     "license": "BSD-3-Clause",
     "authors": [
